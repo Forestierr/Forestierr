@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Robin Forestier</h1>
-<h3 align="center">A passionate developer from Switzerland</h3>
+<h3 align="center">A passionate electronicien and developer from Switzerland.</h3>
 
 </br>
 
-Hy, I'm Robin Forestier, a young developer an electronicien.
+Hi, I'm Robin Forestier, a young developer and electronics apprentice. 
 
-- 🔭 I’m currently working on [TPI controle des lumières KNX](https://github.com/Forestierr/TPI-Controle-lumieres-knx)
+I'm an apprentice electronics technician at the Payerne airbase, now in my fourth year.
+
+During my 4 years of apprenticeship, I have developed knowledge in programming in C and Python. 
+
+As an end of apprenticeship job, I had to build a website with python on raspberry Pi to manage the lights of my workshop, and then add an input detection, with OpenCV.
+
+- 🔭 My final work of apprenticeship : [TPI controle des lumières KNX](https://github.com/Forestierr/TPI-Controle-lumieres-knx)
+> Score : ... out of 6.
+
+- 👁️ My work on OpenCV : [Opencv-reconnaissance](https://github.com/Forestierr/Opencv-reconnaissance)
+
+___
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -25,7 +36,6 @@ Hy, I'm Robin Forestier, a young developer an electronicien.
 </br>
 </br>
 
-___
 
 <h3 align="left"> Electronic :</h3>
 <p align="left"> 
@@ -37,8 +47,6 @@ ___
 </p>
 
 
-___
-
 <h3 align="left">Languages :</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -49,7 +57,6 @@ ___
   </a>
 </p>
   
-___
   
 <h3 align="left">Web :</h3>
 <p align="left">
@@ -68,7 +75,6 @@ ___
   </a> 
 </p>
  
-___
  
 <h3 align="left">Other :</h3>
 <p align="left">
