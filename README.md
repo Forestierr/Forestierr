@@ -12,7 +12,7 @@ During my 4 years of apprenticeship, I have developed knowledge in programming i
 As an end of apprenticeship job, I had to build a website with python on raspberry Pi to manage the lights of my workshop, and then add an input detection, with OpenCV.
 
 - 🔭 My final work of apprenticeship : [TPI controle des lumières KNX](https://github.com/Forestierr/TPI-Controle-lumieres-knx)
-> Score : ... out of 6.
+> Score : 6 out of 6.
 
 - 👁️ My work on OpenCV : [Opencv-reconnaissance](https://github.com/Forestierr/Opencv-reconnaissance)
 
