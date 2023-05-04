@@ -1,24 +1,27 @@
 <h1 align="center">Salut 👋, Je suis Robin Forestier</h1>
-<h3 align="center">A passionate electronicien and developer from Switzerland.</h3>
+                   
+<h3 align="center">Electronicien et dévelopeur passioné originaire de Suisse.</h3>
 
 </br>
+Salut, je m'appelle Robin Forestier, je suis un jeune dévelopeur et electronicien.
 
-Hi, I'm Robin Forestier, a young developer and electronics apprentice. 
+Actuellement en Bachelore d'ingénieur en informatique à HEIG-VD.
 
-I'm an apprentice electronics technician at the Payerne airbase, now in my fourth year.
+Avant ça, j'ai réalisé un apprentissage d'électronicien au sein de la base aérienne de Payerne.
 
-During my 4 years of apprenticeship, I have developed knowledge in programming in C and Python. 
+Durant ces 4 années, j'ai dévellopé mes connaissances en programmation en C et Python.
 
-As an end of apprenticeship job, I had to build a website with python on raspberry Pi to manage the lights of my workshop, and then add an input detection, with OpenCV.
+Dans le cadre d'un travail de fin d'apprentissage, j'ai dû créer un site web en python sur raspberry Pi 
+pour gérer les lumières de mon atelier, puis ajouter une détection d'entrée, avec OpenCV.
 
-- 🔭 My final work of apprenticeship : [TPI controle des lumières KNX](https://github.com/Forestierr/TPI-Controle-lumieres-knx)
-> Score : 6 out of 6.
+- 🔭 Mon travail pratique de fin d'apprentissage : [TPI controle des lumières KNX](https://github.com/Forestierr/TPI-Controle-lumieres-knx)
+> Note : 6 sur 6.
 
-- 👁️ My work on OpenCV : [Opencv-reconnaissance](https://github.com/Forestierr/Opencv-reconnaissance)
+- 👁️ Mon travail avec OpenCV : [Opencv-reconnaissance](https://github.com/Forestierr/Opencv-reconnaissance)
 
 ___
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Retrouve moi sur :</h3>
 <p align="center">
   <a href="https://linkedin.com/in/robin-forestier-8085a8230" target="blank">
     <img align="left" alt="LinkdeIN" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
