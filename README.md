@@ -1,3 +1,6 @@
+
+
+<a href="https://github.com/Forestierr/Forestierr/blob/main/README.fr.md"> <img src="https://img.shields.io/badge/Langue-FR-blue"> </a>
 <h1 align="center">Hi 👋, I'm Robin Forestier</h1>
 <h3 align="center">A passionate electronicien and developer from Switzerland.</h3>
 
