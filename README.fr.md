@@ -21,67 +21,34 @@ pour gérer les lumières de mon atelier, puis ajouter une détection d'entrée,
 
 ___
 
-<h3 align="left">Retrouve moi sur :</h3>
-<p align="center">
+<h3 align="left">Retrouve moi sur :
   <a href="https://linkedin.com/in/robin-forestier-8085a8230" target="blank">
-    <img align="left" alt="LinkdeIN" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <p>                    </p>
   <a href="https://instagram.com/rob1forest" target="blank">
-    <img align="left" alt="Instagram" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a> 
+</h3>
+
+<h3 align="left">Languages :
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py" />
   </a>
-  <p>                    </p>
-  <a target="_blank" href="mailto:robinforestier1407@gmail.com">
-    <img align="left" alt="Gmail" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />  
-  </a>  
-</p>
-
-</br>
-</br>
-
-
-<h3 align="left"> Electronic :</h3>
-<p align="left"> 
-
+</h3>
+  
+<h3 align="left">Web :
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,flask,nginx" />
+  </a>
+</h3>
+ 
+<h3 align="left"> Electronic :
   <a href="https://www.kicad.org" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="c" width="40" height="40"/> 
   </a>
-  
-</p>
-
-
-<h3 align="left">Languages :</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-</p>
-  
-  
-<h3 align="left">Web :</h3>
-<p align="left">
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a> 
-</p>
+</h3>
  
- 
-<h3 align="left">Other :</h3>
-<p align="left">
-
+<h3 align="left">Other :
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a> 
@@ -97,5 +64,4 @@ ___
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
-
-</p>
+</h3>
