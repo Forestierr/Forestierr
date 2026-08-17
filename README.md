@@ -2,22 +2,21 @@
 
 <a href="https://github.com/Forestierr/Forestierr/blob/main/README.fr.md"> <img src="https://img.shields.io/badge/Langue-FR-blue"> </a>
 <h1 align="center">Hi 👋, I'm Robin Forestier</h1>
-<h3 align="center">A passionate electronicien and developer from Switzerland.</h3>
+<h3 align="center">A passionate electronics technician and developer from Switzerland, specializing in embedded systems.</h3>
 
 </br>
 
-Hi, I'm Robin Forestier, a young developer and electronics apprentice. 
+I hold a CFC (Swiss federal diploma) in electronics, completed at the Payerne airbase training center (2018–2022), where I specialized in software development — Python (OpenCV for image processing, Flask for web development) and C on AVR microcontrollers.
 
-I'm an apprentice electronics technician at the Payerne airbase, now in my fourth year.
+I'm currently pursuing a Bachelor's degree in Computer Science at HEIG-VD, specializing in Embedded Systems, to deepen my skills at the intersection of hardware and software.
 
-During my 4 years of apprenticeship, I have developed knowledge in programming in C and Python. 
-
-As an end of apprenticeship job, I had to build a website with python on raspberry Pi to manage the lights of my workshop, and then add an input detection, with OpenCV.
-
-- 🔭 My final work of apprenticeship : [TPI controle des lumières KNX](https://github.com/Forestierr/TPI-Controle-lumieres-knx)
-
-- 👁️ My work on OpenCV : [Opencv-reconnaissance](https://github.com/Forestierr/Opencv-reconnaissance)
-
+- 🌐 Portfolio: [rob1forest.com](https://rob1forest.com)
+- 🔭 Currently building:
+  - [Podium](https://podium.rob1forest.com) — real-time gymnastics scoring app, FSG/GymVaud compliant
+  - [Livres en Classe](https://livresenclasse.com) — school library management app (Flask)
+- 🎓 My apprenticeship final project: [TPI Contrôle des lumières KNX](https://github.com/Forestierr/TPI-Controle-lumieres-knx)
+- 👁️ Computer vision work: [Opencv-reconnaissance](https://github.com/Forestierr/Opencv-reconnaissance)
+- 💬 Ask me about Python, C, embedded systems, and web development
 ___
 
 <h3 align="left">Connect with me:</h3>
